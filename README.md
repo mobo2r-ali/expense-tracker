@@ -23,7 +23,7 @@ Installation
 
 1. Clone the repository:
    
-   git clone git@github.com:mobo2r-ali/expense-tracker.git
+   git clone https://github.com/mobo2r-ali/expense-tracker
 
 2. Navigate to the project directory:
    
