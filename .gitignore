@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# operating system
+.DS_Store
+Thumbs.db
+
+# sensitive files
+.env
+*.log
+
+expenses.csv
