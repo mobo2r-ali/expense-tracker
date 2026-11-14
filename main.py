@@ -1,4 +1,4 @@
-from colorama import Fore, Style, init
+from colorama import Fore, init
 
 from expense_manager import (
     add_expense,
