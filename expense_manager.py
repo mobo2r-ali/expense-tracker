@@ -1,6 +1,6 @@
 from datetime import datetime
 import csv
-from colorama import Fore, Style
+from colorama import Fore
 
 expenses = []
 
